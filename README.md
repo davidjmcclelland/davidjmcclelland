@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @davidjmcclelland
+- 👋 Hi, I’m @davidjmcclelland, Principal User Interface Engineer @ PTC/Thingworx
 - 👀 I’m interested in creating digital experiences
 - 🌱 I’m currently learning Unity 3D
 - 💞️ I’m looking to find my next gig using Unity and C# 
