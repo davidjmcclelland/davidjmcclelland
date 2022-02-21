@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @davidjmcclelland, Principal User Interface Engineer @ PTC/Thingworx
+- 👋 Hi, I’m @davidjmcclelland, Principal Developer at Devo Technologies
 - 👀 I’m interested in creating digital experiences
-- 🌱 I’m currently going deeper into Unity 3D and React
-- 💞️ I’m looking to find my next gig using Unity and C# and/or React
+- 🌱 I’m currently developing using the React library
+- 💞️ I am not seeking employment at this time.
 - 📫 How to reach me: davidjmcclelland at the Google email service.
 
 <!---
