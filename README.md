@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @davidjmcclelland
-- 👀 I’m interested in creating digital experiences
-- 🌱 I’m currently developing using the React library
-- 💞️ I am actively seeking employment at this time.
-- 📫 How to reach me: davidjmcclelland at the Google email service.
+ 👋 Hi, I’m @davidjmcclelland
+ 👀 I’m interested in creating digital experiences
+ 🌱 I’m currently developing using the React library
+ 💞️ I am actively seeking employment at this time.
+ 📫 How to reach me: davidjmcclelland at the Google email service.
 
 [http://davidjmcclelland.com/portfolio](Portfolio)
 <!---
