@@ -1,9 +1,9 @@
 :wave: | @davidjmcclelland
 --|--
-:radio_button: | Hi, I’m a front-end developer
-:fire: | I’m interested in creating digital experiences
-:rocket: | I’m currently developing using the React library
-:high_brightness: | I am actively seeking employment at this time.
+:radio_button: | Hi, I’m a software engineer
+:fire: | I’m interested in creating meaningful digital experiences
+:rocket: | I’m currently developing IoT and VR solutions in Medical Applications
+:high_brightness: | I am fully employment at this time.
 :email: | How to reach me: davidjmcclelland at Gmail.
 :hotsprings: | [http://davidjmcclelland.com/portfolio](Portfolio)
 <!---
