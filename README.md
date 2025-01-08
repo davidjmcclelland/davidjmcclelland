@@ -2,9 +2,9 @@
 --|--
 :radio_button: | Hi, I’m a software engineer
 :fire: | I’m interested in creating meaningful digital experiences
-:rocket: | I’m currently developing IoT and VR solutions in Medical Applications
-:high_brightness: | I am fully employment at this time.
-:email: | How to reach me: davidjmcclelland at Gmail.
+:rocket: | I’m currently developing IoT and VR Medical Applications
+:high_brightness: | I am fully employed
+:email: | How to reach me: davidjmcclelland at Gmail
 :hotsprings: | [http://davidjmcclelland.com/portfolio](Portfolio)
 
 <!---
